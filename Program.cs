@@ -16,3 +16,5 @@ Console.WriteLine("Empleado tiempo completo");
 gestorRecursosHumanos.CalcularPagos(empleadoTiempoCompleto, 15);
 Console.WriteLine("==========================================");
 Console.ReadLine();
+
+//mi primer comentario
